@@ -8,3 +8,17 @@ class DataIngestionConfig:
 class DataValidationConfig:
     validation_yaml_path: str
 
+
+@dataclass
+class DataCleaningConfig:
+    business_rules_yaml_path: str
+
+@dataclass
+class CustomerAggregationConfig:
+    pass
+
+
+@dataclass
+class FeatureEngineeringConfig:
+    features_yaml_path: str
+

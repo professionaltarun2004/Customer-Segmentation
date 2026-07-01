@@ -1,0 +1,4 @@
+business_rules:
+  keep_returns: true
+  remove_cancelled_invoice: false
+  minimum_invoice_value: 0

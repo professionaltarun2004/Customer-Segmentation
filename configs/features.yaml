@@ -1,0 +1,6 @@
+enabled_features:
+  - value
+  - engagement
+  - purchase_pattern
+  - exploration
+  - risk
