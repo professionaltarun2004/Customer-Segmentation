@@ -1,0 +1,7 @@
+validation:
+  drop_missing_customer: true
+  drop_missing_invoicedate: true
+  remove_cancelled_invoice: true
+  remove_negative_quantity: true
+  remove_negative_price: true
+  remove_duplicates: true
